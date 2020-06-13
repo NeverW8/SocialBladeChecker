@@ -19,7 +19,7 @@ a:hover { text-decoration: underline; color:black; }
 
 .wrapper {
 	margin: 0 auto;
-	background: white;
+	background: black;
   /*width: 220px;*/
 	width: 220px;
 	min-height: 135px;

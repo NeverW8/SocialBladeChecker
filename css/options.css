@@ -41,11 +41,12 @@ table {
 
 html {
 	box-sizing: border-box;
-	background-color: #FFF;
+	background-color: #282828;
 }
 body {
 	font-family: arial,sans-serif;
 	font-size: 14px;
+	color: white;
 	margin: 0;
 	line-height: 1.428571429;
 }
